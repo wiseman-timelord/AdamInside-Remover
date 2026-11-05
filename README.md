@@ -9,3 +9,4 @@ Its a cleanup of the redundant files in Windows 10, that are relevant to ADAM. A
 ### Development:
 - More later, just backing up for now. It works somewhat, but I dont know how much of it works.
 - Notes included may be messed up, or not concise, they are original notes.
+- The script was created by Qwen 3.8-8b, and I do not trust it, and it needs improving with grok.
